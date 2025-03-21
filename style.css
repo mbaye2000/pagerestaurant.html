@@ -1,0 +1,51 @@
+* {
+  text-decoration: none;
+  list-style: none;
+  padding: 0px;
+}
+body {
+}
+
+.logo {
+  font-size: 50px;
+  text-decoration: none;
+}
+
+.titre5 {
+  color: brown;
+}
+
+.image {
+  width: 350px;
+  height: 250px;
+  margin-right: 500px;
+}
+
+.titre2 {
+  color: red;
+  margin-left: 0px;
+  text-align: center;
+  padding: 10px;
+  border: none;
+  background-color: bisque;
+}
+
+.titre7 {
+  color: red;
+  border: none;
+  text-align: center;
+  background-color: bisque;
+  padding: 10px;
+}
+
+.titre8 {
+  color: red;
+  text-align: center;
+  border: none;
+  background-color: bisque;
+  padding: 10px;
+}
+.image2 {
+  width: 350px;
+  height: 300px;
+}
